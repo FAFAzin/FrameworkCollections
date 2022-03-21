@@ -1,8 +1,8 @@
-package com.fiap.frameworkcollections;
+package com.dio.frameworkcollections.List;
 
 import java.util.*;
 
-public class ExemploList {
+public class ListCollections {
 
     public static void main(String[] args) {
 
